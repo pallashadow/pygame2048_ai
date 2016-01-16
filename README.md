@@ -1,6 +1,7 @@
 # pygame2048_ai
 基于pygame的2048小游戏  
 written by pallashadow  
+may/2013  
 
 based on pygame  
 http://www.pygame.org  
